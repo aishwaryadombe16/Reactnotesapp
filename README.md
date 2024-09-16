@@ -34,3 +34,4 @@ In the project directory:
   `npm install`
   
   `npm start`
+Updated README
